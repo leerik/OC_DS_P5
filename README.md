@@ -1,6 +1,6 @@
 #### OPENCLASSROOMS - Parcours Data Scientist
-Etudiant: Eric Wendling
-Mentor: Julien Heiduk
+Etudiant: Eric Wendling  
+Mentor: Julien Heiduk  
 Date: 07/04/2020
 
 ## Projet 5: Segmentez des clients d'un site e-commerce
@@ -23,6 +23,5 @@ Une seconde partie sera consacrée à la classificiation automatique des clients
 
 Les différents traitements sont répartis dans 2 notebooks:
 
->Partie 1: Analyse et Extractions des caractéristiques
->
+>Partie 1: Analyse et Extractions des caractéristiques  
 >Partie 2: Segmentation RFM et Classification automatique
