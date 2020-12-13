@@ -24,4 +24,5 @@ Une seconde partie sera consacrée à la classificiation automatique des clients
 Les différents traitements sont répartis dans 2 notebooks:
 
 >Partie 1: Analyse et Extractions des caractéristiques
+>
 >Partie 2: Segmentation RFM et Classification automatique
